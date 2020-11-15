@@ -2,7 +2,8 @@
 Welcome to my profile!
 
 <img align="center" height="auto" src=https://img.shields.io/badge/Tidak_ada_apa%C2%B2_disini-red/>
-
+‎
+‎
 <img align="center" height="auto" src="https://github.com/Pokoke-01/Pokoke-01/blob/main/Angry.jpeg"/>
 
 
