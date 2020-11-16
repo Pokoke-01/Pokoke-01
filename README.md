@@ -6,7 +6,8 @@ Welcome to my profile!
 ‎
 <img align="center" height="auto" src="https://github.com/Pokoke-01/Pokoke-01/blob/main/Angry.jpeg"/>
 
-`wkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwk`
+* [`wkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwk`]
+(https://github.com/Pokoke-01)
 
 <!--
 **Pokoke-01/Pokoke-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
