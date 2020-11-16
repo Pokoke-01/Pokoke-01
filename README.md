@@ -6,6 +6,10 @@ Welcome to my profile!
 <img align="center" height="auto" src="https://github-readme-stats.vercel.app/api?username=Pokoke-01&show_icons=true&theme=chartreuse-dark"/>
 
 <img align="center" height="auto" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif"/>
+
+<img align="center" height="auto" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"/>
+
+
 <!--
 **Pokoke-01/Pokoke-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
