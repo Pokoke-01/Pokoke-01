@@ -3,7 +3,7 @@ Welcome to my profile!
 
 <img align="center" height="auto" src="https://img.shields.io/badge/Tidak%20ada%20apa%C2%B2%20disini-blueviolet?style=for-the-badge&logo=github"/>
 
-<img align="center" height="auto" src="https://github-readme-stats.vercel.app/api?username=Pokoke-01&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000125"/>
+<img align="center" height="auto" src="https://github-readme-stats.vercel.app/api?username=Pokoke-01&show_icons=true&theme=chartreuse-dark"/>
 
 
 <!--
