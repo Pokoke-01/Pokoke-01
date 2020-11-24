@@ -1,13 +1,15 @@
 # Hi there 👋
 Welcome to my profile!
 
----
-
 <img align="center" height="auto" src="https://img.shields.io/badge/Tidak%20ada%20apa%C2%B2%20disini-020433?style=for-the-badge&logo=github"/>
+
+-----
 
 <img align="center" height="auto" src="https://github-readme-stats.vercel.app/api?username=Pokoke-01&show_icons=true&theme=chartreuse-dark"/>
 
 <img align="center" height="auto" src="https://github-profile-trophy.vercel.app/?username=Pokoke-01&theme=alduin&column=4"/>
+
+***
 
 <img align="center" height="auto" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif"/>
 
