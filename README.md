@@ -11,8 +11,6 @@ Welcome to my profile!
 
 ***
 
-<img align="center" height="auto" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif"/>
-
 <img align="center" height="auto" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"/>
 
 
